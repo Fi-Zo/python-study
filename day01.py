@@ -34,8 +34,9 @@
 # 2.通义灵码登录，点击登录，按提示扫描二维码，登录。或者输入邮箱、手机号码和密码，登录。
 
 # jupyter notebook 安装，Windows和Linux版本安装方式一样：
-# 1.在终端中运行命令：pip3 install jupyter，安装完成。
-# 2.在终端中运行命令：jupyter notebook，打开浏览器，输入http://localhost:8888，打开jupyter notebook。
+# 进入创建的虚拟环境中
+# 1.在终端中运行命令：pip3 install jupyterLab，或者notebook/jupyter安装完成。
+# 2.在终端中运行命令：juputer lab /jupyter notebook，打开浏览器，输入http://localhost:8888，打开jupyter notebook。
 # 3.在终端中运行命令：pip3 install jupyterlab-language-pack-zh-CN，安装中文语言包。
 
 # 注意：本教程默认使用windows系统，使用vscode开发，jupyter notebook进行数据可视化，linux系统或者使用pycharm，请自行研究安装。
